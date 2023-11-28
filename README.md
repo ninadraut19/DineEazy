@@ -1,4 +1,4 @@
-# DineEasy 
+# DineEazy 
 ## Document:
 System Requirement Specification Document
 ## Title :
